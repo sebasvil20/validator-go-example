@@ -1,0 +1,21 @@
+{
+  "id": "st_f2i8daj",
+  "name": "Juanse",
+  "age": 21,
+  "grade": 11,
+  "guardians": [
+    {
+      "id": "5678",
+      "name": "Jane",
+      "relationship": "parent",
+      "phone": "300-300-0700"
+    },
+    {
+      "id": "91011",
+      "name": "Bob Smith",
+      "relationship": "parent",
+      "phone": "300-300-0700"
+    }
+  ],
+  "hobbies": ["Reading", "Soccer", "Music"]
+}
